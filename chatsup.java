@@ -17,7 +17,7 @@ public class CreatingYahooMail {
 		driver.findElement(By.xpath("//input[@id='usernamereg-password']")).sendKeys("Myappa200595");
 		driver.findElement(By.xpath("//input[@id='usernamereg-phone']")).sendKeys("9629650799");
 		
-
+An new feature has been updated into the existing feature
 		
 	}
 
